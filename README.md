@@ -9,7 +9,7 @@ Since the app utilises CocoaPods , we recommend  opening via the .xcodeproj file
 ### Prerequisites
 
 Latest Version of Xcode : We used Xcode with IOs 13.2 so do change IOs target if your Xcode is not updated
- 
+ Note: If you directly download from this repository,make sure the pods are installed else the app wont run.
  
 ### Features of MeFit
 MeFit Consists of two main Screens:
@@ -21,7 +21,7 @@ MeFit Consists of two main Screens:
 
 On Xcode, Choose your Device or Simulator with IOs 13.2 and click on the "Run" button or 'Cmd + r' shortcut key
 ## Built With
-Swift,Cocoapods
+Swift,Cocoapods,Firebase
 
 ## How to Use?
 On the first Launch, You will be Prompted to Login:- We use a simple , Name based Log in system , That will provide simple yet fun tasks for users.
