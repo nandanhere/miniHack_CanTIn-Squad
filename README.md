@@ -6,7 +6,6 @@ A Simple app to help get back on track, Learn and explore the various corners of
 MeFit Consists of two main Screens:
 
 -1:A To-Do list Catered to uplifting the Moods of those who have a tough time with Depression and anxiety.
-
 -2:A Random Site Generator That Provides interesting Websites to Explore, Learn and most importantly, have fun!
 
 ### Prerequisites
